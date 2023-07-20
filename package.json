@@ -22,10 +22,6 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "@types/bull": "^4.10.0",
-    "axios": "^1.4.0",
-    "bull": "^4.10.4",
-    "cheerio": "^1.0.0-rc.12",
-    "mongoose": "^7.4.0"
+
   }
 }
